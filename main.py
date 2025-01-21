@@ -1,2 +1,4 @@
-def greet():
-    print("Hello Jackson!")
+from people.jackson import greet
+
+print("Hello World")
+greet()
