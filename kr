@@ -1,0 +1,44 @@
+[33mcommit 95579a927daac9e7ae3ceaf9d4e131909ccddb6e[m[33m ([m[1;36mHEAD -> [m[1;32mgreet-Kevin[m[33m)[m
+Author: kevingonmed <114196683+kevingonmed@users.noreply.github.com>
+Date:   Tue Jan 21 13:17:56 2025 -0700
+
+    Hello Kevin
+
+[33mcommit 19bdd52ce92d1be1cc0e60c92e7c04615a645c55[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Matthew Sessions <me@matthewsessions.com>
+Date:   Thu Jan 16 14:27:41 2025 -0700
+
+    Test
+
+[33mcommit 3292855f7f88d632b357830ccda50742e125c71d[m
+Author: Matthew Sessions <me@matthewsessions.com>
+Date:   Thu Jan 16 13:21:59 2025 -0700
+
+    Change
+
+[33mcommit bfd4aeeb3b3a5c5d7d1f3e53a8bd20fc3ae530f5[m
+Author: Matthew Sessions <me@matthewsessions.com>
+Date:   Thu Jan 16 13:21:12 2025 -0700
+
+    Made a change
+
+[33mcommit 9fff7712ae3976b5bf81abdfbd5791933d5e1dbd[m
+Merge: 2af0204 6a2d518
+Author: Matthew Sessions <me@matthewsessions.com>
+Date:   Tue Jan 14 20:15:12 2025 -0700
+
+    Merge pull request #2 from shichongrui/new-branch
+    
+    New script to print Hello World
+
+[33mcommit 6a2d518c781af092b1dbcb0de4f3a8453abe6b86[m
+Author: Matthew Sessions <me@matthewsessions.com>
+Date:   Tue Jan 14 20:04:44 2025 -0700
+
+    New script to print Hello World
+
+[33mcommit 2af02043b6bf9a802bd5a139449c7a0a1945ac4b[m
+Author: Matthew Sessions <me@matthewsessions.com>
+Date:   Tue Jan 14 13:02:30 2025 -0700
+
+    first commit
